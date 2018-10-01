@@ -1,1 +1,1 @@
-# python-ds
+python and DS algorithms
